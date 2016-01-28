@@ -1,4 +1,4 @@
-# David Fish's Prog270 Repository
+# David Fish's Prog270 Repository - 2nd update
 
 Here is where I'm putting some of my files from the Prog270 Winter, 2016 class.
 
