@@ -1,0 +1,1 @@
+This folder containes two hidden files called **.bashrc.** and **.bash_aliases**.
