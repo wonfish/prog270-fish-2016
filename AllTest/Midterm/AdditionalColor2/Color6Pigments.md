@@ -2,7 +2,7 @@ How Do We See Color?
 =============
 
 
-### The Color of Mixed Pigments
+### Color of Mixed Pigments
 
 
 An answer on answer.com to the questions *"Why do red and yellow make orange?*" was given as follows:
