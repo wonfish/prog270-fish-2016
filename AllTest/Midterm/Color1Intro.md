@@ -15,5 +15,7 @@ So then answer me this:
 Please see my additional pages on
 
  - The physiology of the eye
+ - How we see color
  - The physics of light
  - The chemistry of color
+-  The mixing of inks and pigments
