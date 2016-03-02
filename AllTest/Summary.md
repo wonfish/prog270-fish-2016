@@ -2,6 +2,7 @@
 * [Color1Intro.html](Color1Intro.html)
 * [Color2Eyes.html](Color2Eyes.html)
 * [WalkingMapFish.html](WalkingMapFish.html)
+* [canada.html](canada.html)
 * [index.html](index.html)
 * [master-list.html](master-list.html)
 * [nothing.html](nothing.html)
