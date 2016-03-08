@@ -1,7 +1,7 @@
 How Do We See Color
 =============
 
-### Why is this important to computer programmers?
+## Why is this important to computer programmers?
 
 I'm sure everyone today is using a **color** monitor.  (f not then maybe you should.)  So we see colors on the monitor, but do you really understand how we see the colors.
 
