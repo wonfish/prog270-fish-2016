@@ -1,3 +1,12 @@
 img.twenty-five-percent {
    width: 25%;
 }
+
+button, .label {
+    margin-right: 20px;
+}
+
+body {
+    padding-top: 70px;
+    padding-bottome: 30px;
+}
