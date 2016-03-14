@@ -108,6 +108,9 @@
   <li class="list-group-item list-group-item-danger">This is a danger item!!</li>
 </ul>
 
+***
+### Example of a carousel
+#### Pictures of Boston Terriers Like My Dog Morrie
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
@@ -120,19 +123,16 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BostonTerrier001.JPG/800px-BostonTerrier001.JPG" alt="Chania">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BostonTerrier001.JPG/800px-BostonTerrier001.JPG" alt="BostonTerrier001">
     </div>
-
     <div class="item">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Boston-terrier-carlos-de.JPG/800px-Boston-terrier-carlos-de.JPG" alt="Chania">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Boston-terrier-carlos-de.JPG/800px-Boston-terrier-carlos-de.JPG" alt="Bostonerrier002">
     </div>
-
     <div class="item">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Boston_Terrier_male.jpg/800px-Boston_Terrier_male.jpg" alt="Flower">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Boston_Terrier_male.jpg/800px-Boston_Terrier_male.jpg" alt="BostonTerrier003">
     </div>
-
     <div class="item">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Tire_jump.jpg" alt="Flower">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Tire_jump.jpg" alt="BostonTerrier004">
     </div>
   </div>
 
@@ -146,4 +146,3 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
-

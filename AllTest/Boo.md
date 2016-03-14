@@ -110,7 +110,7 @@
 
 ***
 ### Example of a carousel
-## Picture of Boston Terriers Like My Dog Morrie
+#### Pictures of Boston Terriers Like My Dog Morrie
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
