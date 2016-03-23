@@ -1,4 +1,5 @@
 * [Summary.html](Summary.html)
+* [TravelsWithCharlie/Summary.html](TravelsWithCharlie/Summary.html)
 * [MoreFiles/Summary.html](MoreFiles/Summary.html)
 * [MoreFIles/Summary.html](MoreFIles/Summary.html)
 * [Midterm/Summary.html](Midterm/Summary.html)
