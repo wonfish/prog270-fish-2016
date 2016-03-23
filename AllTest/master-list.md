@@ -1,6 +1,9 @@
 * [Summary.html](Summary.html)
 * [TravelsWithCharlie/Summary.html](TravelsWithCharlie/Summary.html)
+<<<<<<< HEAD
 * [TravelsWithCharlie/1VirtualBoxBashOnlinePresence/Summary.html](TravelsWithCharlie/1VirtualBoxBashOnlinePresence/Summary.html)
+=======
+>>>>>>> bdee3d4fb11ce764cad83e43dc77b99040c48d96
 * [MoreFiles/Summary.html](MoreFiles/Summary.html)
 * [MoreFIles/Summary.html](MoreFIles/Summary.html)
 * [Midterm/Summary.html](Midterm/Summary.html)
