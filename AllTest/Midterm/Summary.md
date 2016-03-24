@@ -1,3 +1,7 @@
 * [Color0.html](Color0.html)
 * [Color1Intro.html](Color1Intro.html)
 * [Color2Eyes.html](Color2Eyes.html)
+* [Color3TV.html](Color3TV.html)
+* [Color4Physics.html](Color4Physics.html)
+* [Color5Chemistry.html](Color5Chemistry.html)
+* [Color6Pigments.html](Color6Pigments.html)

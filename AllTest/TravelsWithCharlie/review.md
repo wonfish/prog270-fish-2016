@@ -4,7 +4,7 @@
 
 It was a long, wet but mild winter when this 11-week trip with Charlie was made.  It was exhaustive but worthwhile.
 
-This review will cover all eleven chapters of the trip.
+This review will cover all eleven weeks of the trip.
 
 <br />
 

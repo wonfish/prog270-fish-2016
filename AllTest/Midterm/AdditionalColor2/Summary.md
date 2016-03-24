@@ -1,1 +1,0 @@
-* [Color6Pigments.html](Color6Pigments.html)
