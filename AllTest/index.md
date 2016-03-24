@@ -1,20 +1,25 @@
-# Index of Pages of David Fish for Prog 270
+ # Index of Pages of David Fish for Prog 270
 ![](https://s-media-cache-ak0.pinimg.com/avatars/countrygirldd-1361341527_140.jpg) 
 <br />
 
-### Miscellaneous Pages
+### Assignments
 
-* [Summary.html](Summary.html)
-* [MoreFiles/Summary.html](MoreFiles/Summary.html)
-* [MoreFIles/Summary.html](MoreFIles/Summary.html)
-### Midterm Pages
-* [Midterm/Summary.html](Midterm/Summary.html)
-* [Midterm/AdditionalColor2/Summary.html](Midterm/AdditionalColor2/Summary.html)
-* [Midterm/AdditionalColor1/Summary.html](Midterm/AdditionalColor1/Summary.html)
-### Other Files
-* [Assignments/Summary.html](Assignments/Summary.html)
-* [AllTest/Summary.html](AllTest/Summary.html)
-* [AllTest/MoreFIles/Summary.html](AllTest/MoreFIles/Summary.html)
+* [See my assignemnts here](Assignments/Summary.html)
+
+<br/>
+### Midterm
+#### A series of pages discussing how we see color
+* [See my midterm here](Midterm/Summary.html)
+
+<br/>
+### Travels with Charlie 
+#### Not the Steinbeck novel! That's spelled Charley
+* [See what I did in the course](TravelsWithCharlie/Summary.html)
+
+<br/>
+### My Grades this Quarter
+#### My low level foray into Python and MySQL
+* [My current gardes](grades.html)
 
 <br />
 

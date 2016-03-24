@@ -9,7 +9,7 @@ The surface of the monitor is covered in a pattern of red, green and blue phosph
 The figure below shows the wavelenght of light emitted fom a typical color monitor.  It looks similar to the response of the cones in the eye -- of course this is by design.  It is fortunate that the eye has only three types of cones.  Imagine how complicated TV screens would have to be if our eye had 10 types of cones!
 
 
-<img class="twenty-five-percent" src="/var/www/html/images/CRT_phosphors.png" alt="Color TV Phosphors">
+<img class="twenty-five-percent" src="/images/CRT_phosphors.png" alt="Color TV Phosphors">
 
 
 

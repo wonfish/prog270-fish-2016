@@ -3,7 +3,7 @@
 <hr />
 ### It's now getting confusing
 
-We now starting in with Lamp, something I'm still getting the hang of.
+We now started in with Lamp, something I'm still getting the hang of.
 <br /> 
 But I'm getting better in using directory commands in Linux.
 

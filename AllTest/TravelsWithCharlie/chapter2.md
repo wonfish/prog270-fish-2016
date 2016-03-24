@@ -7,10 +7,11 @@ Our second week had us explore browsers.  I also had always used IE and the new 
 <br />
 We also learned about working with files in Linux.  It takes a lot practice, trust me.
 
-The browsers and other tools in Linux we reviewed were
-
-- FoxFire
-- Google Chromium
-- Geany
-- Remarkable
-- FileZilla
+>The browsers and other tools in Linux we reviewed were
+>
+>- FoxFire
+>- Google Chromium
+>- Geany
+>- Remarkable
+>- FileZilla
+>

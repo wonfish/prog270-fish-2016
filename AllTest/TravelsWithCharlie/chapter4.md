@@ -1,8 +1,6 @@
 # Travels with Charlie
-## Week 3
+## Week 4
 <hr />
-### It's now getting confusing
+### It's now getting even more confusing
 
-We now starting in with Lamp, something I'm still getting the hang of.
-<br /> 
-But I'm getting better in using directory commands in Linux.
+Page under construction

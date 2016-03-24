@@ -6,6 +6,10 @@
 Our first week together took us on a tour of places in the computer world where few dare to go.
 <br />
 
-We installed Lubuntu on ad VirtualBox. For an assignment I submitted a screen shot of the VirtualBox running on my machine.
+```
+We installed Lubuntu on ad VirtualBox. For an
+assignment  I submitted a screen shot of the
+VirtualBox running on my machine.
+```
 
-<p><img id = "twenty-five-percent" src="/images/Pristine Lubuntu" alt="Image of Pristine Ubuntu on Computer" title="Image of Pristine Ubuntu on Computer"></p>
+<p><img class = "twenty-five-percent" src="/images/Pristine Lubuntu" alt="Image of Pristine Ubuntu on Computer" title="Image of Pristine Ubuntu on Computer"></p>
